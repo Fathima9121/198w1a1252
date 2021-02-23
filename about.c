@@ -1,5 +1,8 @@
 #include<stdio.h>
-int main()
+int main();
 {
 printf("welcome ")
+printf("hello world");
+printf("workshop");
+return 0;
 }
